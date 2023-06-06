@@ -7,10 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
 
 
-- 💻 I'm working with Java[Spring boot,JAX-RS and Microservices], MySQL, SQLite, AWS[EC2] and GitHub[GitHub actions and version control].
--  :cityscape: Lives in Noida.
-- 😄 Pronouns: He/His
-
+<h3 align="center"> Hey welcome 👋 to landing our GitHub profile page</h3>
 
 
 <h3 align="left">Connect with me:</h3>
